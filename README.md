@@ -1,13 +1,19 @@
-# GitHub Codespaces ♥️ Express
+# 💬 Chat em Tempo Real com Node.js, Express e Socket.IO
 
-Welcome to your shiny new Codespace running Express! We've got everything fired up and running for you to explore Express.
+Este é um projeto simples de um sistema de chat em tempo real, desenvolvido com Node.js, Express, Handlebars e Socket.IO. Ele permite que múltiplos usuários se conectem e troquem mensagens ao vivo, com interface limpa e dinâmica.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+---
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## 🚀 Tecnologias Utilizadas
 
-To run this application:
+- [Node.js](https://nodejs.org/)
+- [Express](https://expressjs.com/)
+- [express-handlebars](https://www.npmjs.com/package/express-handlebars)
+- [Socket.IO](https://socket.io/)
+- HTML5, CSS3 e JavaScript (Vanilla)
 
-```
-npm start
-```
+---
+
+## 🎯 Funcionalidades
+
+- Envio e recebimento de mensagens em tempo real com WebSockets
